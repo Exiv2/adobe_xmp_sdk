@@ -1,1 +1,4 @@
-# adobe_xmp_sdk
+# Adobe XMP Toolkit SDK
+
+https://www.adobe.com/devnet/xmp.html
+
